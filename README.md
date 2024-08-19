@@ -1,1 +1,1 @@
-Deployed Link:https://ardhyamarmeto.github.io/Event-Capture-Js-24/
+Deployed Link:https:https://ardhyamarmeto.github.io/Sticky-Nav-Js-24/
